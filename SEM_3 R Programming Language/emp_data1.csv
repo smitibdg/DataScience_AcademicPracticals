@@ -1,0 +1,16 @@
+emp_ID,emp_name,Gender,City,Designation,Department,Experience,Joning_date,Salary,Contact_no
+1,Mano,M,Mumbai,Sofwatare_D,Development,2,05-04-2019,20000,(206) 342-8631
+2,Sakthi,F,Pune,Data Analyst,Analyst,4,01-03-2014,120000,(206) 342-8631
+3,Devesh,M,Delhi,Web_Designer,DS,8,01-05-2015,17000,(206) 342-8631
+4,Pawan,M,Hyderabad,Manager,Sales,7,01-12-2019,190000,(206) 342-8631
+5,Muthu,F,Bihar,HR,CS,3,01-01-2017,250000,(206) 342-8631
+6,Raju,M,Pune,Pr,Sales,10,01-02-2018,1.00E+05,(206) 342-8631
+7,Arvind,M,Rajasthan,xyz,Operation,5,01-03-2019,140000,(206) 342-8631
+8,Vaishnavi,F,Bihar,abc,Sales,3,01-04-2019,70000,(206) 342-8631
+9,shradhha,F,Hyderabad,Sofwatare_D,CS,7,01-11-2019,150000,(206) 342-8631
+10,somu,M,Pune,Manager,IT,4,01-10-2020,110000,(206) 342-8631
+11,ramu,F,Delhi,Employee,Operation,8,01-09-2022,180000,(206) 342-8631
+12,someone,F,Pune,Sofwatare_D,IT,9,01-06-2019,115000,(206) 342-8631
+13,Subash,M,Mumbai,Manager,Sales,3,01-07-2019,175000,(206) 342-8631
+14,Ajay,F,Delhi,HR,DS,2,01-08-2019,185000,(206) 342-8631
+15,Raja,M,Rajasthan,Mumbai,Marketing,2,01-04-2019,130000,(206) 342-8631

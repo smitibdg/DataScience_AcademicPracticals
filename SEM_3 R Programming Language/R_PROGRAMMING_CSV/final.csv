@@ -1,0 +1,16 @@
+"","emp_ID","emp_name","Gender","City","Designation","Department","Joning_date","Salary","Contact_no","experiance","exp_month"
+"1",1,"Mano","M","Mumbai","Sofwatare_D","Development","2019-04-05",20000,"(206) 342-8631",5,60
+"2",2,"Sakthi","M","Pune","Data Analyst","Analyst","2014-03-01",120000,"(206) 342-8631",10,120
+"3",3,"Devesh","M","Mumbai","Web_Designer","Designer","2015-05-01",17000,"(206) 342-8631",9,108
+"4",4,"Pawan","M","Pune","Manager","Sales","2019-12-01",190000,"(206) 342-8631",4,48
+"5",5,"Muthu","M","Mumbai","HR","Operation","2017-01-01",250000,"(206) 342-8631",7,84
+"6",6,"Raju","M","Pune","Pr","Sales","2018-02-01",1e+05,"(206) 342-8631",6,72
+"7",7,"Arvind","M","Mumbai","xyz","Operation","2019-03-01",140000,"(206) 342-8631",5,60
+"8",8,"Vaishnavi","F","Pune","abc","Sales","2019-04-01",70000,"(206) 342-8631",5,60
+"9",9,"shradhha","F","Mumbai","Sofwatare_D","Marketing","2019-11-01",150000,"(206) 342-8631",4,48
+"10",10,"somu","M","Pune","Manager","Marketing","2020-10-01",110000,"(206) 342-8631",3,36
+"11",11,"ramu","M","Mumbai","IT","Operation","2022-09-01",180000,"(206) 342-8631",1,12
+"12",12,"someone","M","Pune","Sofwatare_D","Operation","2019-06-01",115000,"(206) 342-8631",5,60
+"13",13,"Subash","M","Mumbai","Manager","Sales","2019-07-01",175000,"(206) 342-8631",5,60
+"14",14,"Ajay","M","Pune","HR","Marketing","2019-08-01",185000,"(206) 342-8631",4,48
+"15",15,"Raja","M","Mumbai","Mumbai","Marketing","2019-04-01",130000,"(206) 342-8631",5,60

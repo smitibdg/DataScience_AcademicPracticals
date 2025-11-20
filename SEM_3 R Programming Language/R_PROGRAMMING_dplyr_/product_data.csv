@@ -1,0 +1,13 @@
+Product_ID,Product_name,Category,Product_price,Quantity
+1,pen,stationary,1600,4
+2,chocolate,snacks,2000,3
+3,ball,sports,70,6
+4,chocolate,snacks,200,2
+5,milk,dairy,37,1
+6,biscuit,snacks,10,100
+7,pen,stationary,1600,3
+8,milk,dairy,2000,200
+9,ball,sports,70,60
+10,chocolate,snacks,200,80
+11,milk,dairy,37,100
+12,biscuit,snacks,10,300
