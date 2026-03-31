@@ -22,3 +22,8 @@ This repository contains my few laboratory work and practical assignments.
 - **SEM 5:**
   - AI/ML (Artificial Intelligence & Machine Learning Models)
   - PowerBI (Data Visualization & Dashboards)
+- **SEM 6:**
+  - Data Warehousing and Mining (DWM - Data Extraction & Analysis)
+  - Hypothesis Testing (Statistical Inference & Probability)
+  - Natural Language Processing (NLP - Text Processing & Sentiment Analysis)
+  - Optimization Techniques (Linear Programming & Problem Solving)
